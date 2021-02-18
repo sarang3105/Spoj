@@ -6,7 +6,7 @@ import java.util.*;
 
 /**
  * @author Sarangdeep Singh <sarangdeep.singh@outlook.com>
- * @linkhttps://www.spoj.com/problems/AGGRCOW/
+ * @link https://www.spoj.com/problems/AGGRCOW/
  */
 public class Main {
     public static void main(String[] args) throws Exception {
