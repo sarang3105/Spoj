@@ -1,4 +1,4 @@
-package arbitrage;
+package arbitrage.bellmanFord;
 
 import java.lang.*;
 import java.util.*;
